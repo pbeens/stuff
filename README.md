@@ -1,3 +1,3 @@
-# stuff
+# Stuff
 
 Miscellaneous stuff. 
