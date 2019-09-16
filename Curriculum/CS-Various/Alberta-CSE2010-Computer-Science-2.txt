@@ -1,0 +1,122 @@
+Alberta
+
+COURSE CSE2010: COMPUTER SCIENCE 2
+
+Level: Intermediate
+
+Prerequisites: CSE1010: Computer Science 1
+CSE1120: Structured Programming 2
+
+Description: Students explore hardware, software and processes at an intermediate level.
+Students extend their understanding of software development by learning
+how to layer modular programming approaches over structured programming
+techniques to improve the efficiency and robustness of algorithms and
+programs. They also are introduced to derived data types to provide them
+with data structures suitable for more demanding problems. Students add to
+their understanding of the hardware side of computer science by exploring a
+stylized von Neumann computer system at the machine level, and of the
+social side of computer science by examining some of the issues that have
+arisen from the implementation of computer technology.
+
+Parameters: Access to an appropriate computer work station, materials, the Internet, a
+programming language/environment and associated support resources. It is
+recommended that the course be taught in tandem with one or more
+programming courses dealing with modular programming.
+
+Supporting Courses: CSE2110: Procedural Programming 1
+	CSE2120: Data Structures 1
+	CSE2130: Files & File Structures 1 and/or 
+	any Intermediate or advanced project course involving modular programming
+
+Outcomes: The student will:
+
+1. identify and describe past, present and potential developments in computer technology
+	1.1 analyze and explain the qualitative trends of the application of computer technology over time particularly the shift in focus, in the recent past, from traditional computation, information warehousing (databases), and automation and cybernetics to the present focus on communication, social and commercial networking, entertainment and artificial intelligence, and to a future focus on bionics and cyborganization and artificial life
+	1.2 analyze and explain the quantitative trends in the application of computer technology over time including the expansion, in the recent past, from the military, scientific community, government, and large and medium-sized institutions, to the present expansion into small institutions, the home, industrial and domestic machines and personal information managers, and to the projected expansion into personal expert systems, implanted systems and artificial life
+	1.3 identify and describe areas of ethical and moral concerns arising from the permeation of computer technology in society including:
+		1.3.1 privacy issues; e.g., data mining and database consolidation, tracking of financial  transactions, e-mail and other communications monitoring
+		1.3.2 security issues; e.g., identity and information theft
+		1.3.3 equality issues; e.g., emergence of the “digital divide”
+		1.3.4 freedom issues; e.g., privatization of information and control of information flow 
+
+2. explain and demonstrate the nature, evolution and key approaches associated with the modular programming paradigm
+	2.1 demonstrate iterative and incremental approaches to the analysis and design stages of the software development process
+	2.2 demonstrate the analysis step of an appropriate Systems Development Life Cycle (SDLC) using modular approaches including:
+		2.2.1 problem parsing and decomposition
+		2.2.2 identification of subtasks
+		2.2.3 data structuring
+		2.2.4 operation identification
+	2.3 demonstrate the design step of an appropriate SDLC using modular approaches including:
+		2.3.1 top-down design
+		2.3.2 stepwise refinement
+		2.3.3 scope considerations with an emphasis on avoiding global data
+		2.3.4 modular implementation
+		2.3.5 appropriate coupling approaches
+		2.3.6 appropriate levels of cohesion
+		2.3.7 reusable modules and submodules
+		2.3.8 data dictionaries, where required
+		2.3.9 bottom-up coding, where appropriate
+
+3. explain and demonstrate the conversion of general modular algorithms into modular programs through the use of subprograms, procedural abstraction and the use of local scope to protect data, and other tools
+	3.1 explain the following:
+		3.1.1 hierarchy plus input/process/output (HIPO) charting
+		3.1.2 structure diagrams
+		3.1.3 Warnier/Orr diagrams
+
+4. development, structure and use of key algorithms associated with modular approaches and the application of these idioms to create more complex algorithms
+	4.1 demonstrate an understanding of a number of core algorithms associated with derived data types including:
+		4.1.1 traversing
+		4.1.2 searching
+		4.1.3 sorting
+		4.1.4 merging
+	4.2 demonstrate the ability to prepare the algorithm for the development or coding stage of an appropriate SDLC using modular approaches including:
+		4.2.1 subprograms
+		4.2.2 procedures/functions
+		4.2.3 stub programming
+		4.2.4 prototyping
+		4.2.5 libraries 
+
+5. explain and demonstrate the rationale, structure and key uses of the fundamental derived data types
+	5.1 demonstrate the ability to incorporate derived data types including:
+		5.1.1 arrays
+		5.1.2 vectors
+		5.1.3 matrices
+		5.1.4 enumerated data
+		5.1.5 records; e.g., data structures with mixed data types
+	5.2 demonstrate symbolic data representation, using ASCII coding
+
+6. explain and demonstrate the rationale, structure and key uses of text files
+	(no outcomes listed)
+	
+7. explain and analyze the nature, operation and basic architecture of the von Neumann computer system at the machine level
+	7.1 demonstrate an understanding of the machine level organization of a hypothetical von Neumann machine by describing and representing:
+		7.1.1 the basic components of the Central Processing Unit (CPU), Arithmetic Logic Unit (ALU), control unit, registers, program counter and instruction register
+		7.1.2 the bus
+		7.1.3 the memory
+	7.2 demonstrate an understanding of the machine language of a hypothetical von Neumann machine by describing and representing:
+		7.2.1 opcodes
+		7.2.2 operands
+		7.2.3 symbolic representation
+	7.3 demonstrate an understanding of the machine level operations of a hypothetical von Neumann machine by describing and representing:
+		7.3.1 the machine cycle; e.g., fetch, decode, execute
+		7.3.2 the flow of data through the computer under the direction of a hypothetical machine-language program
+	7.4 demonstrate the mediating role played by system software between the human level and machine level including:
+		7.4.1 operating systems
+		7.4.2 language translators
+		7.4.3 memory managers
+		7.4.4 information managers
+		7.4.5 schedulers
+		7.4.6 utilities
+
+8. demonstrate basic competencies
+	8.1 demonstrate fundamental skills to:
+		8.1.1 communicate
+		8.1.2 manage information
+		8.1.3 use numbers
+		8.1.4 think and solve problems
+	8.2 demonstrate personal management skills to:
+		8.2.1 demonstrate positive attitudes and behaviours
+		8.2.2 be responsible
+		8.2.3 be adaptable
+		8.2.4 learn continuously
+		8.2.5 work safely 

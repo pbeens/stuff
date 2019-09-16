@@ -15,25 +15,25 @@ Supporting Courses: CSE1010: Computer Science 1, or any Intermediate project cou
 Outcomes: The student will:
 
 1. demonstrate basic structured programming skills by writing algorithms to solve problems involving selection (decision making) and iteration (repetition)
-	1.1 analyze a problem and determine if it can be solved using an algorithm that employs an 	input/processing/output (IPO) approach
+	1.1 analyze a problem and determine if it can be solved using an algorithm that employs an input/processing/output (IPO) approach
 	1.2 determine if there is more than one IPO module present
-	1.3 decompose the problem into its respective modules and identify the IPO components of each 	module
-	1.4 identify what data is already available to the programmer and what must be inputted by the end 	user and organize into appropriate block or blocks using the appropriate program control 	structures
-	1.5 identify the processing requirements and organize into appropriate blocks using the appropriate 	program control structures
-	1.6 incorporate basic algorithmic idioms as required; e.g., accumulation, determining maximum or 	minimum values
-	1.7 identify the output requirements and organize into appropriate blocks using the appropriate 	program control structures
-	1.8 order components into an appropriate sequence where processing occurs only when all required 	data for a module is available and output occurs only after appropriate processing has occurred
+	1.3 decompose the problem into its respective modules and identify the IPO components of each module
+	1.4 identify what data is already available to the programmer and what must be inputted by the end user and organize into appropriate block or blocks using the appropriate program control structures
+	1.5 identify the processing requirements and organize into appropriate blocks using the appropriate program control structures
+	1.6 incorporate basic algorithmic idioms as required; e.g., accumulation, determining maximum or minimum values
+	1.7 identify the output requirements and organize into appropriate blocks using the appropriate program control structures
+	1.8 order components into an appropriate sequence where processing occurs only when all required data for a module is available and output occurs only after appropriate processing has occurred
 	1.9 write the algorithm in an acceptable format; e.g., pseudocode, a structured chart
 
 2. translate algorithms into source code, convert the source code into machine executable form, execute and debug, as required
 	2.1 maintain the IPO structure of the algorithm
 	2.2 use appropriate internal and external documentation
-	2.3 use appropriate basic (primitive) data types such as integers, real numbers, characters, strings, 	and Boolean values
+	2.3 use appropriate basic (primitive) data types such as integers, real numbers, characters, strings, and Boolean values
 	2.4 use appropriate variables and constants to hold data
 	2.5 use literals and input commands, e.g., methods or operators, to provide data for processing 
-	2.6 use assignment, arithmetical, relational, Boolean, and concatenation and interpolation operators, 	where appropriate, to process data
-	2.7 use basic processing idioms as required; e.g., accumulation, determining maximum or minimum 	values
-	2.8 use appropriate selection and iteration structures to avoid unconditional branching or exiting 	from the interior of a block including:
+	2.6 use assignment, arithmetical, relational, Boolean, and concatenation and interpolation operators, where appropriate, to process data
+	2.7 use basic processing idioms as required; e.g., accumulation, determining maximum or minimum values
+	2.8 use appropriate selection and iteration structures to avoid unconditional branching or exiting from the interior of a block including:
 		2.8.1 nested conditional blocks
 		2.8.2 nested iterative blocks
 	2.9 use output commands, e.g., methods or operators, to display processed data in an appropriately formatted form

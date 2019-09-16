@@ -1,0 +1,80 @@
+Alberta
+
+COURSE CSE2140: SECOND LANGUAGE PROGRAMMING 1
+
+Level: Intermediate
+
+Prerequisite: CSE2110: Procedural Programming 1 or
+	CSE1120: Structured Programming 2
+
+Description: Students who have mastered the basics of one programming language are given the opportunity to learn the basics of another. Designed for students who have learned how to write structured and/or modular programs in a more accessible programming environment, this course gives students an opportunity to develop a similar skill set in a more demanding language. In the process, they have a further opportunity to hone their structured and modular programming skills.
+
+Parameters: Access to appropriate computer equipment, software, support materials, the Internet and a programming environment that encourages structured and modular programming.
+
+Supporting Courses: CSE1010: Computer Science 1
+	CSE1110: Structured Programming 1
+	CSE1120: Structured Programming 2 and/or any
+	Intermediate project course involving structured and modular programming
+
+Outcomes: The student will:
+
+1. compare and contrast a new language with a previously learned language
+	1.1 consider the programming paradigms supported by each language including:
+		1.1.1 naming the paradigms supported
+		1.1.2 outlining the relative advantages and disadvantages of the paradigms
+	1.2 consider the source code to machine code translation process used by each language by:
+		1.2.1 identifying and describing the process used by each language
+		1.2.2 outlining the relative advantages and disadvantages of each language
+	1.3 consider the language characteristics including:
+		1.3.1 language level; e.g., low, high, very high
+		1.3.2 level of type; e.g., strongly typed, weakly typed
+		1.3.3 nature of the source code; e.g., iconic, widgets, graphical
+		1.3.4 difficulty to construct source code; e.g., attendant learning curve
+		1.3.5 programming resources and aids
+	1.4 consider the modular characteristics of each language including:
+		1.4.1 types of subprograms supported
+		1.4.2 how modularity is supported
+		1.4.3 level of module cohesion possible
+		1.4.4 amount of module coupling required 
+
+2. demonstrate programming skills by writing modular structured algorithms in a second language
+	2.1 analyze a data processing problem and use a top-down design approach to decompose it into discreet input, processing, output (IPO) modules
+	2.2 analyze and refine modules into submodules that are a manageable size for each process; e.g., IPO submodules
+	2.3 describe and represent, using pseudocode or an appropriate diagramming approach, the relationship among the modules
+	2.4 analyze and rewrite algorithms for each module identifying the pre- and post-conditions and required program control of flow mechanisms
+	2.5 analyze and evaluate algorithms for each developing module with appropriate data and revise, as required
+
+3. demonstrate basic coding skills by drawing on first language skills to translate modular structured algorithms into executable programs in the second language
+	3.1 convert an algorithm into a program of linked subprograms with a main or client module calling other modules in a manner that reflects the structure of the algorithm
+	3.2 use appropriate types of subprograms to implement the various sections of the algorithm; e.g., functions (subprograms that return a value) and procedures (subprograms that do not return a value)
+	3.3 analyze and determine, in a second language, the type of scope required to protect and/or hide data and keep implementation decoupled from the calling modules and to avoid unwanted side effects with consideration of:
+		3.3.1 the use of appropriate parameters for importing and exporting data to and from the subprograms
+		3.3.2 the use of local variables and nested subprograms to enhance cohesion
+		3.3.3 one- and two-way parameter passing for importing and exporting data to and from the subprograms
+	3.4 analyze for, and maintain, an appropriate balance between the coupling or dependency and cohesion or focus of the subprograms
+	3.5 create both internal and external documentation
+	3.6 analyze the program and eliminate syntax, run-time and logic errors by using appropriate test data for each programming task at each stage of development
+
+4. compare the results of the program with the intent of the algorithm and modify, as required
+	4.1 use appropriate error-trapping mechanisms built into the programming environment, as well as programmer-directed error-trapping techniques, to eliminate logic errors and debug the program
+	4.2 compare the congruency between outcomes of the debugged program and the original intent of the algorithm and modify both, as required
+
+5. demonstrate basic competencies
+	5.1 demonstrate fundamental skills to:
+		5.1.1 communicate
+		5.1.2 manage information
+		5.1.3 use numbers
+		5.1.4 think and solve problems
+	5.2 demonstrate personal management skills to:
+		5.2.1 demonstrate positive attitudes and behaviours
+		5.2.2 be responsible
+		5.2.3 be adaptable
+		5.2.4 learn continuously
+		5.2.5 work safely 
+	5.3 demonstrate teamwork skills to:
+		5.3.1 work with others
+		5.3.2 participate in projects and tasks
+
+6. identify possible life roles related to the skills and content of this cluster
+	6.1 recognize and then analyze the opportunities and barriers in the immediate environment
+	6.2 identify potential resources to minimize barriers and maximize opportunities 
