@@ -1,0 +1,93 @@
+Alberta
+
+COURSE CSE3010: COMPUTER SCIENCE 3
+
+Level: Advanced
+
+Prerequisites: CSE2010: Computer Science 2
+	CSE2110: Procedural Programming 1
+
+Description: Students explore hardware, software and associated processes at an advanced level. They extend their understanding of software development by moving from procedural programming approaches to an object-oriented approach. In the process they learn how object-oriented programming (OOP) can improve the efficiency and robustness of algorithm development and program construction. They deepen their understanding of the hardware side of computer science by exploring the connection between the binary/hexadecimal number systems and some of the simple logic gates that are the basis of the von Neumann computer. They also add to their understanding of the social implications of computer science by examining the emerging information society. Parameters: Access to an appropriate computer work station, the Internet, a programming language/environment and support resources. It is recommended that the course be taught in tandem with one or more programming courses dealing with OOP.
+
+Supporting Courses: CSE3110: Iterative Algorithm 1
+	CSE3120: Object-oriented Programming 1 or any
+	Advanced project course involving OOP
+
+Outcomes: The student will:
+
+1. analyze and explain the historical roots and general nature of the information revolution and the emerging information, knowledge-based society
+	1.1 analyze and explain the:
+		1.1.1 technological roots of the information revolution
+		1.1.2 general economic impact
+		1.1.3 social impact
+		1.1.4 political impact
+		1.1.5 shift from the Industrial Revolution to the Information Age
+
+2. explain and represent the nature, rationale and key approaches associated with OOP
+	2.1 compare and contrast procedural programming and OOP approaches highlighting the:
+		2.1.1 approach to modularity
+		2.1.2 protection and hiding of data
+		2.1.3 use of interfaces to maintain implementation independence
+		2.1.4 approaches to organizing algorithms and programs
+		2.1.5 respective focus of OOP and structured programming 
+	2.2 describe key aspects of object-oriented design and OOP including:
+		2.2.1 abstraction, encapsulation, inheritance and polymorphism
+		2.2.2 classes, class libraries, objects and instantiation
+		2.2.3 data members (properties) and member functions (behaviours)
+		2.2.4 public and private access modifiers
+		2.2.5 message passing and object networks
+
+3. demonstrate object-oriented design techniques
+	3.1 demonstrate requirement analysis including:
+		3.1.1 case analysis
+		3.1.2 domain analysis
+		3.1.3 object diagrams
+	3.2 demonstrate iterative class design using:
+		3.2.1 principal classes
+		3.2.2 elaboration of object diagrams
+		3.2.3 class-responsibility-collaboration cards
+		3.2.4 iterative prototyping
+	3.3 demonstrate appropriate relationships including:
+		3.3.1 dependency
+		3.3.2 association
+		3.3.3 aggregation
+		3.3.4 composition
+
+4. explain and demonstrate the relationship between binary and hexadecimal number systems, data encoding, logic gates and the digital computer
+	4.1 describe and represent the binary and hexadecimal system by:
+		4.1.1 comparing and contrasting each system with the decimal system
+		4.1.2 converting numbers from one system to another
+		4.1.3 describing and demonstrating the role each system plays in encoding data for digital computing
+	4.2 describe and represent binary arithmetic by:
+		4.2.1 creating a simple binary addition truth table
+		4.2.2 creating simple binary truth tables for basic logical states such as logical conjunction (AND), logical disjunction (OR) and logical negation (NOT)
+	4.3 describe and represent circuits (general and logic) using binary notation including:
+		4.3.1 AND
+		4.3.2 OR
+		4.3.3 NOT
+		4.3.4 NAND and NOR
+	4.4 describe and represent simple operations with logic gates including:
+		4.4.1 binary addition with full and half adders
+		4.4.2 binary subtraction with full and half subtractors
+		4.4.3 tasks involving selection
+		4.4.4 tasks involving inversion
+
+5. demonstrate basic competencies
+	5.1 demonstrate fundamental skills to:
+		5.1.1 communicate
+		5.1.2 manage information
+		5.1.3 use numbers
+		5.1.4 think and solve problems 
+	5.2 demonstrate personal management skills to:
+		5.2.1 demonstrate positive attitudes and behaviours
+		5.2.2 be responsible
+		5.2.3 be adaptable
+		5.2.4 learn continuously
+		5.2.5 work safely
+	5.3 demonstrate teamwork skills to:
+		5.3.1 work with others
+		5.3.2 participate in projects and tasks
+
+6. create a transitional strategy to accommodate personal changes and build personal values
+	6.1 identify short-term and long-term goals
+	6.2 identify steps to achieve goals 

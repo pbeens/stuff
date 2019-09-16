@@ -1,0 +1,86 @@
+Alberta
+
+COURSE CSE3020: COMPUTER SCIENCE 4
+
+Level: Advanced
+
+Prerequisites: CSE3010: Computer Science 3
+	CSE3110: Iterative Algorithms 1
+
+Description: Students enhance their learning by studying a set of standard abstract data types and the dynamic data structures conventionally used to implement them. They also add to their general understanding of algorithms by learning how to conduct asymptotic analyses of algorithmic efficiency and indicate that efficiency using big O notation. Students continue their exploration of the hardware aspect of computer science by exploring a different type of computer architecture, the Turing machine.
+
+Parameters: Access to an appropriate computer work station, the Internet, a programming language/environment, preferably one that supports object-oriented programming, and associated support resources. It is recommended that the course be taught in tandem with one or more programming courses dealing with dynamic abstract data types and their implementation.
+
+Supporting Courses: CSE3310: Recursive Algorithms 1
+	CSE3320: Dynamic Data Structures 1 or any
+	Advanced project course involving abstract data type programming
+
+Outcomes: The student will:
+
+1. analyze and represent the nature, structure, utility and key operations associated with dynamic abstract data types (ADTs) available in high-level programming languages
+	1.1 list and explain the advantages and disadvantages of dynamic ADTs
+	1.2 describe the nature and structure of common and useful dynamic ADTs such as:
+		1.2.1 lists
+		1.2.2 stacks
+		1.2.3 queues and priority queues
+		1.2.4 sets
+		1.2.5 maps
+		1.2.6 trees
+	1.3 list and describe dynamic data structures used to implement dynamic ADTs including:
+		1.3.1 user-created dynamic arrays and associative arrays
+		1.3.2 user-created linear linked structures
+		1.3.3 user-created hash tables
+		1.3.4 specialized class libraries
+	1.4 list and describe common data operations associated with the dynamic data structures including:
+		1.4.1 traversing the items in the data structure
+		1.4.2 finding and/or retrieving an item
+		1.4.3 adding, removing or replacing an item
+		1.4.4 determining the size of the structure 
+		1.4.5 determining if the structure is empty
+		1.4.6 providing a copy or subset of the collection
+		1.4.7 comparing or combining with other data structures of the same type
+
+2. analyze and represent the nature, utility, approaches and nomenclature associated with the asymptotic analyses of algorithmic efficiency
+	2.1 describe asymptotic analysis
+	2.2 explain the relationship between efficiency and complexity in the analysis of algorithms
+	2.3 represent the efficiency and complexity of an algorithm using big O notation including:
+		2.3.1 constant growth
+		2.3.2 logarithmic growth
+		2.3.3 linear growth
+		2.3.4 linearithmic growth
+		2.3.5 polynomial growth
+		2.3.6 exponential growth
+
+3. explain and demonstrate the rationale and use of recursive and introductory recursive operations
+	3.1 compare and contrast recursion with iteration
+	3.2 evaluate and identify problems that require recursive processes
+	3.3 describe and represent recursive program flow
+
+4. analyze and represent the nature, architecture, operation and utility of a Turing machine
+	4.1 explain the nature and use of Turing machines
+	4.2 represent a Turing machine
+	4.3 demonstrate the ability to execute simple programs on a Turing machine
+	4.4 create simple state representations
+
+5. demonstrate an understanding of computer science’s impact on society by preparing and delivering a presentation on a personally relevant area of interest where computer science intersects with society
+	(no sub-outcomes)
+	
+6. demonstrate basic competencies
+	6.1 demonstrate fundamental skills to:
+		6.1.1 communicate
+		6.1.2 manage information
+		6.1.3 use numbers
+		6.1.4 think and solve problems
+	6.2 demonstrate personal management skills to:
+		6.2.1 demonstrate positive attitudes and behaviours
+		6.2.2 be responsible
+		6.2.3 be adaptable
+		6.2.4 learn continuously
+		6.2.5 work safely
+	6.3 demonstrate teamwork skills to:
+		6.3.1 work with others
+		6.3.2 participate in projects and tasks
+
+7. create a transitional strategy to accommodate personal changes and build personal values
+    7.1 identify short-term and long-term goals
+    7.2 identify steps to achieve goals 

@@ -86,7 +86,7 @@ Outcomes: The student will:
 	5.2 demonstrate symbolic data representation, using ASCII coding
 
 6. explain and demonstrate the rationale, structure and key uses of text files
-	(no outcomes listed)
+	(no sub-outcomes)
 	
 7. explain and analyze the nature, operation and basic architecture of the von Neumann computer system at the machine level
 	7.1 demonstrate an understanding of the machine level organization of a hypothetical von Neumann machine by describing and representing:

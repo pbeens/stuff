@@ -1,0 +1,79 @@
+Alberta
+
+COURSE CSE3310: RECURSIVE ALGORITHMS 1
+
+Level: Advanced
+
+Prerequisites: CSE3110: Iterative Algorithm 1
+	CSE3120: Object-oriented Programming 1
+
+Description: Students learn how to use a new program control flow mechanism called recursion. They then use this mechanism to write a number of basic recursive algorithms and programs such as a recursive version of the binary search, the quicksort and the merge sort.
+
+Parameters: Access to appropriate computer equipment, software, the Internet and support materials. Access to an object-oriented programming environment that encourages a formal treatment of objects.
+
+Supporting Courses: CSE3020: Computer Science 4
+	CSE3130: Object-oriented Programming 2
+
+Outcomes: The student will:
+
+1. analyze and represent the nature and utility of the recursive functions or procedures
+	1.1 explain and represent the key features of recursive algorithms including:
+		1.1.1 illustrate how recursive algorithms define themselves in terms of themselves
+		1.1.2 illustrate the use and purpose of the base case in recursion
+	1.2 describe and represent the “divide and conquer” approach to creating recursive algorithms
+	1.3 describe and represent the interchangeability of recursive and iterative operations
+	1.4 compare and contrast recursion and iteration highlighting:
+		1.4.1 programmer efficiency
+		1.4.2 space efficiency
+		1.4.3 time efficiency
+	1.5 outline the importance of recursion in creating dynamic data structures
+	1.6 compare and contrast tail end and head end recursion
+	1.7 explain and represent how the system stack (or equivalent structure) is used to carry out recursive operations
+
+2. analyze and represent the nature, structure and utility of recursive search and sort algorithms
+	2.1 describe at least four recursive algorithms used in dynamic data manipulation
+	2.2 compare and contrast iterative and recursive approaches to binary searching by:
+		2.2.1 describing and representing iterative and recursive binary search algorithms
+		2.2.2 explaining the advantages and disadvantages of iterative and recursive approaches to binary searching
+	2.3 compare and contrast at least two recursive sorts by:
+		2.3.1 describing and representing the quicksort and the merge sort
+		2.3.2 describing and representing the heapsort
+		2.3.3 explaining the advantages and disadvantages of the quicksort, merge sort and heapsort 
+
+3. create and/or modify recursive algorithms to solve problems
+	3.1 demonstrate the use of appropriate general design techniques to draft algorithms that use recursion
+	3.2 analyze and decompose the problem into appropriate subsections using the decomposition techniques appropriate for the chosen design approach
+	3.3 evaluate subsections and identify any that may require a recursive approach
+	3.4 identify which recursive algorithms are appropriate
+	3.5 sequence the various subsections appropriately
+	3.6 test and modify the developing algorithm with appropriate data using a “fail-on-paper” process
+
+4. create and/or modify programs that use recursion
+	4.1 convert algorithms calling for recursive structures into programs that reflect the algorithm’s design
+	4.2 use original (user-created) or pre-existing recursive merge and/or sort algorithms appropriate to the data being manipulated
+	4.3 utilize the appropriate operators, methods, functions or procedures required to carry out the recursive algorithms
+	4.4 use internal and external documentation
+
+5. compare program operation and outcomes with the intent of the algorithm and modify, as required
+	5.1 use appropriate error-trapping mechanisms built into the programming environment, as well as programmer-directed error-trapping techniques, to eliminate logic errors and debug the program
+	5.2 compare the congruency between the outcomes of the debugged program and the original intent of the algorithm and modify both, as required
+
+6. demonstrate basic competencies
+	6.1 demonstrate fundamental skills to:
+		6.1.1 communicate
+		6.1.2 manage information
+		6.1.3 use numbers
+		6.1.4 think and solve problems
+	6.2 demonstrate personal management skills to:
+		6.2.1 demonstrate positive attitudes and behaviours
+		6.2.2 be responsible
+		6.2.3 be adaptable
+		6.2.4 learn continuously
+		6.2.5 work safely
+	6.3 demonstrate teamwork skills to:
+		6.3.1 work with others
+		6.3.2 participate in projects and tasks
+
+7. create a transitional strategy to accommodate personal changes and build personal values
+	7.1 identify short-term and long-term goals
+	7.2 identify steps to achieve goals 
