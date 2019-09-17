@@ -6,7 +6,7 @@ Level: Advanced
 
 Prerequisite: CSE3320: Dynamic Data Structures 1
 
-Description: Students enhance their knowledge of abstract data types that utilize dynamic data structures by expanding their repertoire to include stacks and queues. Students also study the unordered data structures, set and map, and learn how to incorporate them into abstract data types. As part of this work, they learn how to use linked lists to create stacks and queues.
+Description: Students enhance their knowledge of abstract data types that utilize dynamic data structures by expanding their repertoire to include stacks and queues. Students also study the unordered data structures, set and map, and learn how to incorporate them into abstract data types. As part of this work,they learn how to use linked lists to create stacks and queues.
 
 Parameters: Access to appropriate computer equipment, software, the Internet and support materials. Access to an object-oriented programming environment that encourages a formal treatment of objects.
 
@@ -21,7 +21,7 @@ Outcomes: The student will:
 		1.1.1 the role of stacks, queues, sets and/or maps as containers for abstract data types (ADTs)
 		1.1.2 the abstract data type and data manipulation each structure is best suited to
 		1.1.3 the logical structure of stacks, queues, sets and/or maps
-	1.2 explain and represent the standard operators associated with stacks, queues, sets and/or maps 	including:
+	1.2 explain and represent the standard operators associated with stacks, queues, sets and/or maps including:
 		1.2.1 create the data structure
 		1.2.2 copy the data structure; e.g., cloning, deep copy
 		1.2.3 push, pop and peek for stacks
@@ -34,21 +34,21 @@ Outcomes: The student will:
 	1.3 explain the advantages and disadvantages of using stacks, queues, sets and/or maps
 
 2. create and/or modify algorithms using stacks, queues, sets and/or maps to solve problems
-	2.1 demonstrate the use of appropriate general design techniques to draft algorithms that use stacks, 	queues, sets and/or maps
-	2.2 analyze and decompose the problem into appropriate subsections using the decomposition 	techniques appropriate for the chosen design approach
-	2.3 evaluate subsections and identify any that may require stacks, queues, sets and/or maps, based on 	the nature of the data to be processed and type of processing operations
-	2.4 identify which structures (stacks, queues, sets and/or maps) are appropriate or required to 	manipulate data 
+	2.1 demonstrate the use of appropriate general design techniques to draft algorithms that use stacks, queues, sets and/or maps
+	2.2 analyze and decompose the problem into appropriate subsections using the decomposition techniques appropriate for the chosen design approach
+	2.3 evaluate subsections and identify any that may require stacks, queues, sets and/or maps, based on the nature of the data to be processed and type of processing operations
+	2.4 identify which structures (stacks, queues, sets and/or maps) are appropriate or required to manipulate data 
 	2.5 sequence the various subsections appropriately
 	2.6 test and modify the developing algorithm with appropriate data using a “fail-on-paper” process
 
 3. create and/or modify programs based on appropriate algorithms using stacks, queues, sets and/or maps
-	3.1 convert algorithms calling for stacks, queues, sets and/or maps into programs that reflect the 	algorithm’s design
-	3.2 use original (user-created) or pre-existing stacks, queues, sets and/or maps appropriate to the 	data being manipulated
-	3.3 utilize the appropriate operators, methods, functions or procedures required to use stacks, 	queues, sets and/or maps
+	3.1 convert algorithms calling for stacks, queues, sets and/or maps into programs that reflect the algorithm’s design
+	3.2 use original (user-created) or pre-existing stacks, queues, sets and/or maps appropriate to the data being manipulated
+	3.3 utilize the appropriate operators, methods, functions or procedures required to use stacks, queues, sets and/or maps
 	3.4 use internal and external documentation
 
 4. compare program operation and outcomes with the intent of the algorithm and modify, as required
-	4.1 use appropriate error-trapping mechanisms built into the programming environment, as well as 	programmer-directed error-trapping techniques, to eliminate logic errors and debug the program
+	4.1 use appropriate error-trapping mechanisms built into the programming environment, as well as programmer-directed error-trapping techniques, to eliminate logic errors and debug the program
 	4.2 compare the congruency between the outcomes of the debugged program and the original intent of the algorithm and modify both, as required
 
 5. demonstrate basic competencies

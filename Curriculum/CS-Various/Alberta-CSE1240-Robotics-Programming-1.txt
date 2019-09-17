@@ -6,16 +6,9 @@ Level: Introductory
 
 Prerequisite: CSE1110: Structured Programming 1
 
-Description: Students use an appropriate Robot Control Language (RCL) to design,
-develop, implement and debug robotics programs that employ standard
-structured programming constructs and simple data structures. In the
-process, they develop a general understanding of robots and the robotics
-environment.
+Description: Students use an appropriate Robot Control Language (RCL) to design, develop, implement and debug robotics programs that employ standard structured programming constructs and simple data structures. In the process, they develop a general understanding of robots and the robotics environment.
 
-Parameters: Access to appropriate computer equipment, software, support materials and
-the Internet. More specifically, students must have access to either the
-physical (real) or virtual (simulated) robotic environment they will require to
-design, write and debug RCL scripts or programs.
+Parameters: Access to appropriate computer equipment, software, support materials and the Internet. More specifically, students must have access to either the physical (real) or virtual (simulated) robotic environment they will require to design, write and debug RCL scripts or programs.
 
 Supporting Courses: CSE1010: Computer Science 1
 CSE1120: Structured Programming 2
@@ -123,7 +116,6 @@ Outcomes: The student will:
         5.3.1 work with others
         5.3.2 participate in projects and tasks
 
-6. make personal connections to the cluster content and processes to inform possible pathway
-choices
+6. make personal connections to the cluster content and processes to inform possible pathway choices
     6.1 complete/update a personal inventory; e.g., interests, values, beliefs, resources, prior learning and experiences
     6.2 create a connection between a personal inventory and occupational choices 

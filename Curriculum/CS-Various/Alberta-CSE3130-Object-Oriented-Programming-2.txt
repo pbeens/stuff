@@ -49,7 +49,7 @@ Outcomes: The student will:
 	3.8 analyze the program and eliminate syntax, run-time and logic errors by using appropriate test data for each programming task at each stage of development
 
 4. compare the results of the program with the intent of the algorithm and modify, as required
-	(no sub-outcomes)
+	(no specific outcomes)
     
 5. demonstrate basic competencies
 	5.1 demonstrate fundamental skills to:

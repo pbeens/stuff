@@ -46,8 +46,7 @@ Outcomes: The student will:
 		4.3.3 create more detailed algorithms for each module identifying the pre- and post-conditions and required program control of flow mechanisms
 		4.3.4 test and modify the developing algorithm with appropriate data using a “fail-on-paper” process
 
-5. write and debug scripts that use procedural programming approaches and fundamental data
-structures using an appropriate Internet-oriented scripting environment
+5. write and debug scripts that use procedural programming approaches and fundamental data structures using an appropriate Internet-oriented scripting environment
 	5.1 demonstrate the ability to use an appropriate scripting language coding environment
 	5.2 convert the algorithms into scripts consisting of linked modules/subprograms that reflect the structure of the algorithm
 	5.3 use appropriate types of subprograms to implement the various sections of the algorithm

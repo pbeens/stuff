@@ -7,21 +7,9 @@ Level: Intermediate
 Prerequisites: CSE1010: Computer Science 1
 CSE1120: Structured Programming 2
 
-Description: Students explore hardware, software and processes at an intermediate level.
-Students extend their understanding of software development by learning
-how to layer modular programming approaches over structured programming
-techniques to improve the efficiency and robustness of algorithms and
-programs. They also are introduced to derived data types to provide them
-with data structures suitable for more demanding problems. Students add to
-their understanding of the hardware side of computer science by exploring a
-stylized von Neumann computer system at the machine level, and of the
-social side of computer science by examining some of the issues that have
-arisen from the implementation of computer technology.
+Description: Students explore hardware, software and processes at an intermediate level. Students extend their understanding of software development by learning how to layer modular programming approaches over structured programming techniques to improve the efficiency and robustness of algorithms and programs. They also are introduced to derived data types to provide them with data structures suitable for more demanding problems. Students add to their understanding of the hardware side of computer science by exploring a stylized von Neumann computer system at the machine level, and of the social side of computer science by examining some of the issues that have arisen from the implementation of computer technology.
 
-Parameters: Access to an appropriate computer work station, materials, the Internet, a
-programming language/environment and associated support resources. It is
-recommended that the course be taught in tandem with one or more
-programming courses dealing with modular programming.
+Parameters: Access to an appropriate computer work station, materials, the Internet, a programming language/environment and associated support resources. It is recommended that the course be taught in tandem with one or more programming courses dealing with modular programming.
 
 Supporting Courses: CSE2110: Procedural Programming 1
 	CSE2120: Data Structures 1
@@ -86,7 +74,7 @@ Outcomes: The student will:
 	5.2 demonstrate symbolic data representation, using ASCII coding
 
 6. explain and demonstrate the rationale, structure and key uses of text files
-	(no sub-outcomes)
+	(no specific outcomes)
 	
 7. explain and analyze the nature, operation and basic architecture of the von Neumann computer system at the machine level
 	7.1 demonstrate an understanding of the machine level organization of a hypothetical von Neumann machine by describing and representing:

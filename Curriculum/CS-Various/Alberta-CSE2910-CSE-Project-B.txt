@@ -19,8 +19,8 @@ Outcomes:
 The teacher/student will:
 
 1. identify the connection between this project course and two or more CTS courses
-1.1 identify the outcome(s) from each identified CTS course that support the project and/or performance deliverables
-1.2 explain how these outcomes are being connected to the project and/or performance deliverables
+	1.1 identify the outcome(s) from each identified CTS course that support the project and/or performance deliverables
+	1.2 explain how these outcomes are being connected to the project and/or performance deliverables
 
 2. propose the project and/or performance
 	2.1 identify the project and/or performance by:
@@ -40,11 +40,11 @@ The student will:
 	3.1 complete the project and/or performance as outlined
 	3.2 monitor the project and/or performance and make necessary adjustments
 	3.3 present the project and/or performance, indicating the:
-	3.3.1 outcomes attained
-	3.3.2 relationship of outcomes to goals originally set 
+		3.3.1 outcomes attained
+		3.3.2 relationship of outcomes to goals originally set 
 	3.4 evaluate the project and/or performance, indicating the:
-	3.4.1 processes and strategies used
-	3.4.2 recommendations on how the project and/or performance could have been improved
+		3.4.1 processes and strategies used
+		3.4.2 recommendations on how the project and/or performance could have been improved
 
 4. demonstrate basic competencies
 	4.1 demonstrate fundamental skills to:

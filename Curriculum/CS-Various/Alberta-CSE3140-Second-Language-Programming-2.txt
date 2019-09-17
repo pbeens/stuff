@@ -40,7 +40,8 @@ Outcomes: The student will:
 2. demonstrate programming skills by writing algorithms for a second language that uses fundamental data structures
 	2.1 use appropriate general design techniques for a specific programming environment
 	2.2 analyze and decompose the problem into appropriate subsections using techniques appropriate for the chosen design approach
-	2.3 evaluate subsections and identify any that may require some type of fundamental data structure, based on the nature of the data to be processed and the type of processing operations 2.4 identify, use or construct the appropriate data structure; e.g., array using appropriate variant or variants, where required
+	2.3 evaluate subsections and identify any that may require some type of fundamental data structure, based on the nature of the data to be processed and the type of processing operations 
+	2.4 identify, use or construct the appropriate data structure; e.g., array using appropriate variant or variants, where required
 	2.5 identify and sequence the operations required to process the data to be contained in the data structure
 	2.6 sequence the various subsections appropriately
 	2.7 create more detailed algorithms for each module identifying the pre- and post-conditions and required program control of flow mechanisms
@@ -57,7 +58,7 @@ Outcomes: The student will:
 	3.6 analyze the program and eliminate syntax, run-time and logic errors by using appropriate test data for each programming task at each stage of development
 
 4. compare the results of the program with the intent of the algorithm and modify, as required
-	(no sub-outcomes)
+	(no specific outcomes)
     
 5. demonstrate basic competencies
 	5.1 demonstrate fundamental skills to:

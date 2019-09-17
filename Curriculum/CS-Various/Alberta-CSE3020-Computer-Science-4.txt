@@ -63,7 +63,7 @@ Outcomes: The student will:
 	4.4 create simple state representations
 
 5. demonstrate an understanding of computer science’s impact on society by preparing and delivering a presentation on a personally relevant area of interest where computer science intersects with society
-	(no sub-outcomes)
+	(no specific outcomes)
 	
 6. demonstrate basic competencies
 	6.1 demonstrate fundamental skills to:
